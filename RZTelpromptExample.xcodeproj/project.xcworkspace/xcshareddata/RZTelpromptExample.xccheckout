@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7FE211D-8DCE-49A5-B699-DD814D3A815D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RZTelpromptExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB7B889E-33A5-4398-98A2-0B774F74001D</key>
+		<string>https://github.com/Raizlabs/RZBlog.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>03-14/TelpromptFromTel/RZTelpromptExample/RZTelpromptExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB7B889E-33A5-4398-98A2-0B774F74001D</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Raizlabs/RZBlog.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB7B889E-33A5-4398-98A2-0B774F74001D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB7B889E-33A5-4398-98A2-0B774F74001D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Blog</string>
+		</dict>
+	</array>
+</dict>
+</plist>
